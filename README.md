@@ -13,5 +13,5 @@ Cara Kerja Program :
 ![beli produk id 2](https://user-images.githubusercontent.com/71066812/123104136-e3479400-d460-11eb-83d4-74071cd61f0c.png)
 6. user dapat memberi rating pada produk yang dia beli dengan memasukkan id toko terlebih dahulu, kemudian memasukkan nama produk, rating, & ulasan
 ![ulasan](https://user-images.githubusercontent.com/71066812/123104557-40dbe080-d461-11eb-83ce-fd31bc556ecf.png)
-7.  Jika kita login dengan akun toko
+7.  Jika kita login dengan akun tok
 This source code is made by Ariq Pradipa Santoso (2006527052), Mochammad Shaffa Prawiranegara(2006528105), and Muhammad Malik Ardiansyah (2006526996) as final programming assignment in Even Semester 2020/2021 for course Advance Programming + Lab. (ENCE602003) in Undergraduate of Computer Engineering study program, Department of Electrical Engineering, Faculty of Engineering, Universitas Indonesia."
