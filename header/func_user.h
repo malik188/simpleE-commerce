@@ -503,7 +503,7 @@ int ratingUlasan() {
 	
 	printf("\n\tMasukan nama produk yang ingin diberi rating: "); scanf(" %[^\n]s", name);
 	printf("\n\tRating anda untuk produk ini(1-10): "); scanf("%d", &rating);
-	printf("\n\tUlasan anda untuk produk ini(1-10): "); scanf(" %[^\n]s", ulasan);
+	printf("\n\tUlasan anda untuk produk ini: "); scanf(" %[^\n]s", ulasan);
 	
 	fprintf(fptr, "%s\nRating: %d\nUlasan: %s\n", name, rating, ulasan);
 	fclose(fptr);
